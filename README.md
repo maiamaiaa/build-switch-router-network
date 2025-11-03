@@ -1,5 +1,5 @@
 # build-switch-router-network
-Praktikum konfigurasi jaringan dasar menggunakan perangkat Cisco. Meliputi pengaturan router, switch, dan dua PC dengan alamat IPv4 dan IPv6, konfigurasi interface, pengamanan akses, serta verifikasi konektivitas antar perangkat.
+Youtube Link : https://youtu.be/IdQRE3cnS_c
 
 <img width="1004" height="277" alt="image" src="https://github.com/user-attachments/assets/d310ee44-9aa7-4829-bc3e-76b447f9b3f6" />
 🧩 Hasil Pengujian Jaringan
