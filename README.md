@@ -1,9 +1,9 @@
 # build-switch-router-network
 Youtube Link : https://youtu.be/IdQRE3cnS_c
 
-<img width="1004" height="277" alt="image" src="https://github.com/user-attachments/assets/d310ee44-9aa7-4829-bc3e-76b447f9b3f6" />
 🧩 Hasil Pengujian Jaringan
 🔹 Sebelum Dilakukan Konfigurasi
+![WhatsApp Image 2025-11-04 at 01 42 30_85ea7aae](https://github.com/user-attachments/assets/7c962c48-552c-4783-89d5-c763f29ba89b)
 
 Sebelum dilakukan konfigurasi, semua perangkat belum memiliki alamat IP dan interface masih down.
 Akibatnya, komunikasi antar perangkat belum bisa dilakukan.
