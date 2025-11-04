@@ -3,7 +3,7 @@ Youtube Link : https://youtu.be/IdQRE3cnS_c
 
 🧩 Hasil Pengujian Jaringan
 
-🔹 Sebelum Dilakukan Konfigurasi
+Sebelum Dilakukan Konfigurasi
 
 ![WhatsApp Image 2025-11-04 at 01 42 30_85ea7aae](https://github.com/user-attachments/assets/7c962c48-552c-4783-89d5-c763f29ba89b)
 
@@ -12,7 +12,7 @@ Akibatnya, komunikasi antar perangkat belum bisa dilakukan.
 Hasil ping menunjukkan error:
 Request timed out.
 
-🔹 Setelah Dilakukan Konfigurasi
+Setelah Dilakukan Konfigurasi
 Setelah konfigurasi IP, aktivasi interface, dan routing dilakukan, seluruh perangkat dapat saling berkomunikasi.
 <img width="1004" height="277" alt="image" src="https://github.com/user-attachments/assets/a0f4937e-8e91-4ba0-b3f4-b7f944ac55d2" />
 
